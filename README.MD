@@ -6,4 +6,4 @@ This repository contains release notes for our projects, managed as Markdown fil
 
 - **Script**: `generate-release-note.js`
 - **Purpose**: Generates a template for a new release note based on the semantic versioning. 
-- **Usage**: Run `node generate-release-note.js --type {type}` where `{type}` is one of `major`, `minor`, or `patch` to specify the type of release.
+- **Usage**: Run `yarn new-release --type {type}` where `{type}` is one of `major`, `minor`, or `patch` to specify the type of release.

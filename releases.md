@@ -1,10 +1,16 @@
-# Release 18th March 2024
+# Release 3rd of April 2024
+
+- Price for limit and market orders are now always displayed in ada.
+- Price shortcuts have been updated to accommodate prices displayed in ada by now displaying "below" when selling ada and "above" when buying ada.
+- Price warning if the limit or market order deviates by more than 30% from the market price of the trading pair.
+
+# Release 18th of March 2024
 
 ## What's New
 
-- USDM token has been added to the list of available tokens to trade
+- USDM token has been added to the list of available tokens to trade.
 
-# Release 15th March 2024
+# Release 15th of March 2024
 
 ## Overview
 

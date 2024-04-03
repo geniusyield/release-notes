@@ -4,6 +4,10 @@
 - Price shortcuts have been updated to accommodate prices displayed in ada by now displaying "below" when selling ada and "above" when buying ada.
 - Price warning if the limit or market order deviates by more than 30% from the market price of the trading pair.
 
+# Release 27th of March 2024
+
+- Multi-fill has been enabled for market orders.
+
 # Release 18th of March 2024
 
 ## What's New

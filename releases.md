@@ -24,4 +24,4 @@ This release was focused on refactoring to improve performance and productivity 
 
 - Shortcuts for setting price below market price. The options are 5%, 10% and 25% below market price.
 - 11 new tokens: BTN, rsERG, AXO, CBLP, CGI, CNCT, DING, KITUP, PAVIA, SPF as well as the updated version of MELD and MILK tokens. The old versions are still available to trade and have been grayed out to signal that they are the outdated versions.
-- Various bug fixes and performance improvements
+- Various bug fixes and performance improvements.

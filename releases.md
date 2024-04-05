@@ -1,7 +1,12 @@
+# Release 8th of April 2024
+
+- Improved the "To" and "From" asset selector dropdown visually and functionally.
+- Add staking NFT deadline notice to utility check feature.
+
 # Release 3rd of April 2024
 
-- Price for limit and market orders are now always displayed in ada.
-- Price shortcuts have been updated to accommodate prices displayed in ada by now displaying "below" when selling ada and "above" when buying ada.
+- Price for limit and market orders are now always displayed in ADA.
+- Price shortcuts have been updated to accommodate prices displayed in ADA by now displaying "below" when selling ADA and "above" when buying ADA.
 - Price warning if the limit or market order deviates by more than 30% from the market price of the trading pair.
 
 # Release 27th of March 2024

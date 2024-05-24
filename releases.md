@@ -1,3 +1,36 @@
+# Release 21st of May 2024
+
+- Add functionality to bin price charts on the DEX into time windows such as 1h, 4h, 1d etc
+- Improve error messages shown in the Staking platform
+
+# Release 13th of May 2024
+
+- Significant Staking platform refactoring and performance improvements. Loading staking vaults is now more than twice as fast.
+
+# Release 7th of May 2024
+
+- Add $NVL token
+- Update $MILK token to use the correct muesli icon
+
+# Release 6th of May 2024
+
+- Add reward distribution differentiation between Accelerated Yield and Vault Staking rewards
+- Staking V2 goes live with changes including GENS flex staking as well as Rewards Multiplying revenue sharing staking vaults
+
+# Release 1st of May 2024
+
+- Staking V2 maintenance
+- Staking V2 UI changes
+
+# Release 22nd of April 2024
+
+- Candlestick option is added to the DEX price chart
+- Add support for multiple Plutus smart contract scripts
+
+# Release 9th of April 2024
+
+- Add $SPX token to the list of available tokens to trade.
+
 # Release 8th of April 2024
 
 - Improved the "To" and "From" asset selector dropdown visually and functionally.
@@ -17,7 +50,7 @@
 
 ## What's New
 
-- USDM token has been added to the list of available tokens to trade.
+- $USDM token has been added to the list of available tokens to trade.
 
 # Release 15th of March 2024
 

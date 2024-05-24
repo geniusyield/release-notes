@@ -25,7 +25,6 @@
 # Release 22nd of April 2024
 
 - Candlestick chart support added to the DEX DApp.
-- Add support for multiple Plutus smart contract scripts.
 
 # Release 9th of April 2024
 

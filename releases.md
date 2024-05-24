@@ -9,7 +9,7 @@
 
 # Release 7th of May 2024
 
-- Add $NVL token
+- Add $NVL token to the list of available tokens to trade.
 - Update $MILK token to use the correct muesli icon
 
 # Release 6th of May 2024
@@ -24,7 +24,7 @@
 
 # Release 22nd of April 2024
 
-- Candlestick option is added to the DEX price chart
+- Candlestick chart support added to the DEX DApp
 - Add support for multiple Plutus smart contract scripts
 
 # Release 9th of April 2024

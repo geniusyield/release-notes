@@ -1,3 +1,8 @@
+# Release 29th of May 2024
+
+- Add $SPLASH token to the list of available tokens to trade.
+- Add warning to users that the Lace wallet is experiencing issues.
+
 # Release 21st of May 2024
 
 - Add functionality to bin price charts on the DEX into time windows such as 1h, 4h, 1d etc.

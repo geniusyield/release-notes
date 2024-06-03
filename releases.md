@@ -1,3 +1,8 @@
+# Release 3rd of June 2024
+
+- Suggestion to place a better market order when detected by our systems.
+- Automatically select ADA as opposite asset when changing 'from' token.
+
 # Release 29th of May 2024
 
 - Add $SPLASH token to the list of available tokens to trade.

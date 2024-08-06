@@ -1,3 +1,14 @@
+# Release 7th of August 2024
+
+- Trading Bot Analytics V1: A brand new part of the Genius Yield Platform where users can view the performance of their own and others trading bots.
+- Added $OMNI, $DEDI, $SKY and $MOGI to the list of available tokens to trade.
+- Removed warning label on Lace wallet as it is no longer experiencing issues.
+
+# Release 20th of June 2024
+
+- Added $MNT, $C4, $CLARITY, $CERRA, $rsRSN, $rsBTC, $ANGELS and $NIKE to the list of available tokens to trade.
+- Updated $USDM icon.
+
 # Release 3rd of June 2024
 
 - Suggestion to place a better market order when detected by our systems.
@@ -5,13 +16,13 @@
 
 # Release 29th of May 2024
 
-- Add $SPLASH token to the list of available tokens to trade.
-- Add warning to users that the Lace wallet is experiencing issues.
+- Added $SPLASH token to the list of available tokens to trade.
+- Added warning to users that the Lace wallet is experiencing issues.
 
 # Release 21st of May 2024
 
-- Add functionality to bin price charts on the DEX into time windows such as 1h, 4h, 1d etc.
-- Improve error messages shown in the Staking platform.
+- Added functionality to bin price charts on the DEX into time windows such as 1h, 4h, 1d etc.
+- Improved error messages shown in the Staking platform.
 
 # Release 13th of May 2024
 
@@ -19,12 +30,12 @@
 
 # Release 7th of May 2024
 
-- Add $NVL token to the list of available tokens to trade.
-- Update $MILK token to use the correct muesli icon.
+- Added $NVL token to the list of available tokens to trade.
+- Updated $MILK token to use the correct muesli icon.
 
 # Release 6th of May 2024
 
-- Add reward distribution differentiation between Accelerated Yield and Vault Staking rewards.
+- Added reward distribution differentiation between Accelerated Yield and Vault Staking rewards.
 - Staking V2 goes live with changes including GENS flex staking as well as Rewards Multiplying revenue sharing staking vaults.
 
 # Release 1st of May 2024
@@ -38,12 +49,12 @@
 
 # Release 9th of April 2024
 
-- Add $SPX token to the list of available tokens to trade.
+- Added $SPX token to the list of available tokens to trade.
 
 # Release 8th of April 2024
 
 - Improved the "To" and "From" asset selector dropdown visually and functionally.
-- Add staking NFT deadline notice to utility check feature.
+- Added staking NFT deadline notice to utility check feature.
 
 # Release 3rd of April 2024
 

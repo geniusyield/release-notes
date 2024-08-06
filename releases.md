@@ -1,6 +1,6 @@
 # Release 7th of August 2024
 
-- Trading Bot Analytics V1: A brand new part of the Genius Yield Platform where users can view the performance of their own and others trading bots.
+- Trading Bot Analytics V1: A brand new feature of the Genius Yield Platform where users are able to register and view the performance of their own and other trading bots.
 - Added $OMNI, $DEDI, $SKY and $MOGI to the list of available tokens to trade.
 - Removed warning label on Lace wallet as it is no longer experiencing issues.
 

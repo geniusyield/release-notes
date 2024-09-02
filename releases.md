@@ -1,3 +1,7 @@
+# Release 2nd of September 2024
+
+- Resolve bug on the Earn page that caused some Staking Vaults to not display correctly.
+
 # Release 7th of August 2024
 
 - Trading Bot Analytics V1: A brand new feature of the Genius Yield Platform where users are able to register and view the performance of their own and other trading bots.

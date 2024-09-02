@@ -1,6 +1,6 @@
 # Release 2nd of September 2024
 
-- Resolve bug in the Staking app that caused some stake vaults to not display correctly.
+- Resolve bug on the Earn page that caused some Staking Vaults to not display correctly.
 
 # Release 7th of August 2024
 

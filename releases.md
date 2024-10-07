@@ -1,3 +1,7 @@
+# Release 7th of October 2024
+
+- Add support for non-ADA trading pairs such as $GENS/$USDM, $USDM/$DJED, $DJED/$iUSD and many more.
+
 # Release 2nd of September 2024
 
 - Resolve bug on the Earn page that caused some Staking Vaults to not display correctly.

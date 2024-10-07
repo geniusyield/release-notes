@@ -1,6 +1,7 @@
 # Release 7th of October 2024
 
 - Add support for non-ADA trading pairs such as $GENS/$USDM, $USDM/$DJED, $DJED/$iUSD and many more.
+- Add Metamask (powered by NuFi) wallet support.
 
 # Release 2nd of September 2024
 
